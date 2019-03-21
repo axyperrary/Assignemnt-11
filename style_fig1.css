@@ -1,0 +1,113 @@
+.navbar-default .navbar-brand 
+{
+    color: white;
+    font-size: 50px;
+    background-color: rgb(77, 170, 165);
+    padding-top: 10%;
+    padding-bottom: 22%;
+}
+
+.navbar>.container-fluid .navbar-brand 
+{
+    margin-left: 30%;
+}
+
+.navbar-right
+{
+    padding-top: 0.7%
+}
+
+.collapse.navbar-collapse
+{
+    background-color: white;
+}
+
+.col-md-12
+{
+    margin-top: 5%;
+}
+
+body 
+{
+    background-color: rgb(237, 237, 237);
+}
+
+.container-fluid 
+{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.col-md-6
+{
+    background-color: white;
+    margin-left: 5%;
+    padding-bottom: 5%;
+    padding-top: 1%
+}
+
+img
+{
+    max-width: 100%;
+}
+
+h1 
+{
+    color: rgb(77, 170, 165);
+}
+
+h3
+{
+    color: rgb(169, 170, 172);
+}
+
+.col-md-4
+{
+    background-color: white;
+    margin-left: 3%;
+    padding-bottom: 3%;
+    padding-top: 1%
+}
+
+.card-header
+{
+    text-align: center;
+    background-color: rgb(77, 170, 165);
+    color: rgb(77, 170, 165);
+}
+
+.blockquote.mb-0
+{
+    text-align: center;
+    color: white;
+    background-color: rgb(102, 102, 102);
+    border-left: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.card-body
+{
+    margin-bottom: 0px;
+}
+
+.col-md-12
+{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 1rem!important;
+    
+}
+
+/* For comparison  */
+.h1
+{
+    text-align: center;
+}
+
+.col-md-4 img[src="Resources/Fig1.png"]
+{ 
+    border:1px solid rgb(77, 170, 165);
+    border-width: 4px;
+}
